@@ -170,6 +170,11 @@ hr {
 		align-items: center;
 	}
 
+	.main .container{
+		display: flex;
+		gap: 2rem;
+	}
+
 	.main-article {
 		width: 60%;
 		border-radius: 0.6rem;
